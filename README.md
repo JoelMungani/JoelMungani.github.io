@@ -1,5 +1,5 @@
 # JoelMungani.github.io
-Jmmungani@my.waketech.edu
+Joel Mungani Jmmungani@my.waketech.edu
 
 This is my school account for CTI-110
 
