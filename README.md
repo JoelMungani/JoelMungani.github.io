@@ -1,2 +1,4 @@
 # JoelMungani.github.io
-john 14:6
+Jmmungani@my.waketech.edu
+This is my school account for CTI-110
+This repository will hold my assignments and my scripts that I will make
